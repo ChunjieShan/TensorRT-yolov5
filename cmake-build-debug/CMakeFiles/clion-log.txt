@@ -1,4 +1,0 @@
-/home/rick/Downloads/clion-2021.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/rick/Code/Projects/1.CV/8.TensorRT/1.TensorRT-YOLOV5
--- Configuring done
--- Generating done
--- Build files have been written to: /home/rick/Code/Projects/1.CV/8.TensorRT/1.TensorRT-YOLOV5/cmake-build-debug
